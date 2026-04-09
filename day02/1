@@ -1,0 +1,13 @@
+#!/bin/bash
+#idiot people
+
+<< comment
+
+shruti here 
+comment
+ 
+name="idiots"
+
+ echo “name is $name”
+
+
