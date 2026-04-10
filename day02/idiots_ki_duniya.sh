@@ -15,3 +15,5 @@ name="idiots"
  read username
 echo "you enter name $username"
 
+echo "idiots are $0 $1 $2"
+
