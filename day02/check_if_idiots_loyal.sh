@@ -4,7 +4,9 @@
 this is pilots world 
 disclaimer
 
-read -p "sammer and sahil ne mere bina kya kiya " idiots
+# this is a function definition
+function is_loyal() {
+read -p "$1 ne mere bina kya kiya " idiots
 
 read -p "ith tehy have time for me " time 
 
@@ -17,3 +19,7 @@ then
 else
 	echo "idiots are idiots"
 fi
+}
+
+#this is a function call 
+is_loyal  idiots
